@@ -1,4 +1,4 @@
-# Hello Wrld, I'm Nie-Mand 
+# Hello Wrld
 
 ![](https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif)
 > Java, Php and Angular are the consequences of bad taste and irresponsibility, me  
