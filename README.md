@@ -2,8 +2,11 @@
 
 
 <!-- V -->
-https://hmlndr.me
 
+Network Engineering Student [@INSAT](https://insat.rnu.tn/), Full Stack Software Engineer with Experience in Web Development, DevOps, Cloud, Blockchain. 
+[GCP Certified Professional Cloud Architect](https://google.accredible.com/ff7ad23a-4f27-4b1d-843c-e7b3625a855c), Platform Engineer on Kubernetes.
+
+https://hmlndr.me
 
 <!-- V2 -->
 <!-- ![](https://cultofthepartyparrot.com/guests/hd/party-k8s.gif)
