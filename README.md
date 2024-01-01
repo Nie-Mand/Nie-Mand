@@ -8,6 +8,9 @@ Network Engineering Student [@INSAT](https://insat.rnu.tn/), Full Stack Software
 
 https://hmlndr.me
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nie-Mand&layout=compact&theme=dark)
+
+
 <!-- V2 -->
 <!-- ![](https://cultofthepartyparrot.com/guests/hd/party-k8s.gif)
 ![](https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif)
